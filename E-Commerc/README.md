@@ -7,5 +7,5 @@ by their feature like colour.
 
 
 
-![Logo](https://github.com/YuvrajTak/MyAmazon/blob/main/E-Commerc/src/assets/amazingLogo.jpg)
+![Logo](https://github.com/YuvrajTak/MyAmazon/blob/main/E-Commerc/src/assets/Capture_2022_08_04_02_54_39_513.png)
 
