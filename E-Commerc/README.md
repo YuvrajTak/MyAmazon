@@ -1,17 +1,11 @@
-## Notes
+# Amazing E-Commerce Website Project
 
-#### Older React Version
 
-```
-"react": "^16.13.1",
-"react-dom": "^16.13.1",
-"react-scripts": "3.4.3",
-```
+Complete responsive E-Commerce Website demo with all necessary feature the feature 
+like Product shorting By minimum and maximum value, filter the products
+by their feature like colour.
 
-#### Current React Version
 
-```
-"react": "^17.0.1",
-"react-dom": "^17.0.1",
-"react-scripts": "4.0.0",
-```
+
+![Logo](https://github.com/YuvrajTak/MyAmazon/blob/main/E-Commerc/src/assets/amazingLogo.jpg)
+
